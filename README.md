@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+## 📝 Client Testimonials
+
+<a href="https://kzmjegzeur95xu36yc1k.lite.vusercontent.net/samson-tobi" target="_blank">
+  <img src="https://kzmjegzeur95xu36yc1k.lite.vusercontent.net/api/testimonials/samson-tobi" alt="Client Testimonials" width="600" />
+</a>
+
+<!-- Powered by Clojór - Professional Feedback Platform -->
+
+
 <!--
 **SamsonTobi/SamsonTobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
