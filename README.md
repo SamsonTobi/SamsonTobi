@@ -2,7 +2,10 @@
 
 ## 📝 Client Testimonials
 
-![Client Testimonials](https://kzmgcm2njdlsqzmimvzb.lite.vusercontent.net/api/testimonials/samson-tobi/png)
+<img src="https://clojor.vercel.app/api/testimonials/samson-tobi?v=2025-3" alt="Client Testimonials" width="600" />
+
+<!-- Powered by Clojór - Professional Feedback Platform -->
+
 
 <!-- Powered by Clojór - Professional Feedback Platform -->
 
