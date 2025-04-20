@@ -1,13 +1,15 @@
 ## Hi there 👋
 
 
+
 ## 📝 Client Testimonials
 
-<a href="https://clojor.vercel.app/profile/samson-tobi" target="_blank">
-  <img src="https://clojor.vercel.app/api/testimonials/samson-tobi?v=2025-3-12" alt="Client Testimonials" width="600" />
+<a href="https://www.clojor.xyz/profile/samson-tobi" target="_blank">
+  <img src="https://www.clojor.xyz/api/testimonials/samson-tobi?count=3&theme=dark&ratings=true&v=2025-3-20" alt="Client Testimonials" width="500" />
 </a>
 
-<!-- View more testimonials at https://clojor.vercel.app/profile/samson-tobi -->
+<!-- View more testimonials at https://www.clojor.xyz/profile/samson-tobi -->
+
 
 
 <!-- Powered by Clojór - Professional Feedback Platform -->
